@@ -1,0 +1,87 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.numis{
+    width: 98%;
+    height: 30px;
+    background-color: gray;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
+.img{
+    text-align: center;
+    margin-top: 25px;
+    
+} 
+h1{
+    text-align: center;
+}
+body{
+    background-color: #D3D3D3; 
+    color: #333333; 
+    font-family: Arial, sans-serif;
+}
+.curiosidades{
+margin-top: 5px;
+
+}
+
+a:visited{
+color: black;
+}
+
+.História{
+    margin-top: 5px;
+    text-align: center;
+    }
+
+    p{
+    text-align: justify;
+    }
+
+.formulário{
+    margin-top: 5px;
+}
+
+.inicio{
+    margin-top: 5px;
+}
+
+.inicio:hover{
+    background-color: beige;
+    height: 17px;
+}
+.coleções{
+    margin-top: 5px;
+}
+.imagem{
+    text-align: center;
+}
+.História:hover{
+    background-color: beige;
+    height: 17px;
+}
+.formulário:hover{
+    background-color: beige;
+    height: 17px;
+}
+.coleções:hover{
+    background-color: beige;
+    height: 17px;
+}
+.curiosidades:hover{
+    background-color: beige;
+    height: 17px;
+}
+
+.h2{
+    text-align: center;
+}
+
+
